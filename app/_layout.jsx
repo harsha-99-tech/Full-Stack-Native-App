@@ -37,7 +37,7 @@ const RootLayout = () => {
 
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
 
-        {/*<Stack.Screen name="/search/[query]" options={{ headerShown: false }} />*/}
+        <Stack.Screen name="search/[query]" options={{ headerShown: false }} />
       </Stack>
     </GlobalProvider>
   );
