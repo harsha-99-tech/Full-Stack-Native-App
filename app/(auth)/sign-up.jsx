@@ -50,7 +50,7 @@ const SignUp = () => {
           />
 
           <Text className="text-2xl text-white text-semibold mt-8 mb-5 font-psemibold">
-            Sign Up to Aora
+            Sign Up to wide-x
           </Text>
 
           <FormField

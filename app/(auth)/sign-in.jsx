@@ -49,7 +49,7 @@ const SignIn = () => {
           />
 
           <Text className="text-2xl text-white text-semibold mt-8 mb-5 font-psemibold">
-            Log in to Aora
+            Log in to wide-x
           </Text>
 
           <FormField
